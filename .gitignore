@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments / conda
+.env
+.venv
+env/
+venv/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# ── User data (never commit raw experimental data) ──────────────────────────
+# Calibration files (contain subject-specific fitted models)
+*.json
+
+# Raw and processed video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# DLC output CSV files and any other tabular data
+*.csv
+
+# Exported data directories (common naming conventions)
+output/
+exports/
+data/
+results/
+
+# ── OS noise ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
