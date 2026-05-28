@@ -352,6 +352,12 @@ This material is based upon work supported by the JSPS KAKENHI Grant Number JP25
 
 If you use this tool in a publication, please consider citing the repository and DeepLabCut.
 
+```
+Bretas, R. (2026). Eye-Tracking Gaze Mapper [Software].
+National Institute of Information and Communications Technology (NICT).
+https://github.com/nexflatline/gaze-to-scene-camera-mapper
+```
+
 ---
 
 ## License
