@@ -1,0 +1,43 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments / conda
+.env
+.venv
+env/
+venv/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# User calibration outputs from this tool (subject-specific fitted models)
+*_calibration.json
+
+# Exported gaze tables from this tool
+*_GazeData.csv
+
+# Raw and processed video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Common DLC analysis dumps (keep example/schema CSVs commitable)
+*_DLC_*.csv
+*DLC*.csv
+
+# Exported data directories (common naming conventions)
+output/
+exports/
+data/
+results/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

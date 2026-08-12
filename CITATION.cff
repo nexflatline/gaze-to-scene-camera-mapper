@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: Eye-Tracking Gaze Mapper
+version: 0.1.0
+date-released: "2026-04-09"
+url: https://github.com/nexflatline/gaze-to-scene-camera-mapper
+repository-code: https://github.com/nexflatline/gaze-to-scene-camera-mapper
+license: MIT
+authors:
+  - family-names: Bretas
+    given-names: Rafael
+    affiliation: >-
+      Center for Information and Neural Networks (CiNet),
+      National Institute of Information and Communications Technology (NICT)
+keywords:
+  - eye tracking
+  - gaze estimation
+  - DeepLabCut
+  - scene camera
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Bretas
+      given-names: Rafael
+  title: "Eye-Tracking Gaze Mapper"
+  year: 2026
+  publisher: National Institute of Information and Communications Technology (NICT)
+  url: https://github.com/nexflatline/gaze-to-scene-camera-mapper
